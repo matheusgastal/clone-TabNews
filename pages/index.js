@@ -1,8 +1,5 @@
 function Home() {
-  return <h1>Teste 1</h1>;
+  return <h1>Teste</h1>;
 }
 
-function teste2() {
-  console.log("indentacaoo");
-}
 export default Home;
